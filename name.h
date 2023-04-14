@@ -2,8 +2,9 @@
 // by Krajnyák Márk
 
 #include <string>
+using namespace std;
 
-class Nagitme
+class Name
 {
 private:
     string first;
